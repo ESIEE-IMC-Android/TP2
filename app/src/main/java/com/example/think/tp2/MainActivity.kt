@@ -1,10 +1,10 @@
-package com.example.think.is5203.tp3
+package com.example.think.tp2
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
-import com.example.think.is5203.R
+import com.example.think.tp2.R
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 

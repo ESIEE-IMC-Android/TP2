@@ -1,4 +1,4 @@
-package com.example.think.is5203.tp3;
+package com.example.think.tp2;
 
 /**
  * D�crivez votre classe PilePleineException ici.
@@ -6,12 +6,12 @@ package com.example.think.is5203.tp3;
  * @author (votre nom) 
  * @version (un num�ro de version ou une date)
  */
-public class PileVideException extends Exception{
+public class PilePleineException extends Exception{
 
-  public PileVideException(){
+  public PilePleineException(){
     super();
   }
-  public PileVideException(String message){
+  public PilePleineException(String message){
     super(message);
   }
 }

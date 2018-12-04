@@ -1,4 +1,4 @@
-package com.example.think.is5203.tp3
+package com.example.think.tp2
 
 import android.app.Activity
 import android.content.Intent
@@ -6,7 +6,6 @@ import android.net.Uri
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast
-import com.example.think.is5203.R
 
 import kotlinx.android.synthetic.main.activity_main2.*
 import kotlinx.android.synthetic.main.content_main2.*
